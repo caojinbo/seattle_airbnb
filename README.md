@@ -28,7 +28,7 @@ All the analysis are combined in one single notebook. The notebook is explorator
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](hxxxx).
+The main findings of the code can be found at the post available [here](https://medium.com/@caojinbo/being-smart-when-making-money-with-airbnb-787a7a6647a1).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
